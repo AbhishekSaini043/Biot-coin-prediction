@@ -1,1 +1,1 @@
-# Biot-coin-prediction
+# cryptocurrency_price_predictor
